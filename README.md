@@ -18,13 +18,12 @@
 
 ## 有什么缺陷
 
-- [ ]   BB与专栏界面导航栏未能变灰色![xQSn1.png](https://i.imgtg.com/2022/04/24/xQSn1.png)
+  BB与专栏界面导航栏未能变灰色! [xQSn1.png](https://i.imgtg.com/2022/04/24/xQSn1.png)
 
-- [ ] sitemap不能正常显示（去看文档改下就行，我懒）![xQ04I.png](https://i.imgtg.com/2022/04/24/xQ04I.png)
+  sitemap不能正常显示（去看文档改下就行，我懒）![xQ04I.png](https://i.imgtg.com/2022/04/24/xQ04I.png)
 
   其它问题暂未发现
 
-  
 
   ## ”我“怎么使用？
 
@@ -87,21 +86,21 @@
 
     只需在文章头部插入即可：![xQskF.png](https://i.imgtg.com/2022/04/24/xQskF.png)
 
-  1.  https://api.lqbby.com/api/dm
+  1. https://api.lqbby.com/api/dm
 
-  2.  https://api.ghser.com/random/api.php 
+  2. https://api.ghser.com/random/api.php 
 
-  3.  https://img.xjh.me/random_img.php?return=302
+  3. https://img.xjh.me/random_img.php?return=302
 
-  4.  https://api.ixiaowai.cn/api/api.php
+  4. https://api.ixiaowai.cn/api/api.php
 
-  5.  https://img.paulzzh.com/touhou/random
+  5. https://img.paulzzh.com/touhou/random
 
-  6.  https://tuapi.eees.cc/api.php?category=dongman&type=302
+  6. https://tuapi.eees.cc/api.php?category=dongman&type=302
 
-  7.  https://api.ishimeng.cn/ecy/api.php
+  7. https://api.ishimeng.cn/ecy/api.php
 
-  8.  https://api.codeanime.cn/4kanimation/random.php（4k动漫）
+  8. https://api.codeanime.cn/4kanimation/random.php（4k动漫）
 
      够你用几年了把（doge）
 
