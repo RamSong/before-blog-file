@@ -42,11 +42,11 @@
 
 *   \[ ]   BB与专栏界面导航栏未能变灰色
 
-![](https://i.imgtg.com/2022/04/24/xQSn1.png)
+     ![](https://cdn.jsdelivr.net/gh/RamSong/before-blog-file@main/3.png)
 
-*   \[ ] sitemap不能正常显示（去看文档改下就行，我懒）
+*   \[ ] sitemap不能正常显示（去看文档应该就行了，我懒）
 
-    ![](https://i.imgtg.com/2022/04/24/xQ04I.png)
+    ![](https://cdn.jsdelivr.net/gh/RamSong/before-blog-file@main/2.png)
 
     其它问题暂未发现
 
@@ -103,7 +103,7 @@ comments:
 
 这个评论系统还是可以的（还有很多主题）：
 
-![](https://i.imgtg.com/2022/04/24/xQc6D.png)
+![](https://cdn.jsdelivr.net/gh/RamSong/before-blog-file@main/1.png)
 
 ## 随机封面
 
@@ -113,7 +113,7 @@ comments:
 
 只需在文章头部插入即可：
 
-![](https://i.imgtg.com/2022/04/24/xQskF.png)
+![](https://cdn.jsdelivr.net/gh/RamSong/before-blog-file@main/4.png)
 
 1.  [https://api.lqbby.com/api/dm](https://api.lqbby.com/api/dm "https://api.lqbby.com/api/dm")
 
