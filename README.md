@@ -79,7 +79,7 @@ comments:
 
 这个评论系统还是可以的（还有很多主题）：
 
-![](https://i.imgtg.com/2022/04/24/xQc6D.png)
+[](https://i.imgtg.com/2022/04/24/xQc6D.png)
 
 ## 随机封面
 
@@ -89,7 +89,7 @@ comments:
 
 只需在文章头部插入即可：
 
-![](https://i.imgtg.com/2022/04/24/xQskF.png)
+[](https://i.imgtg.com/2022/04/24/xQskF.png)
 
 1.  [https://api.lqbby.com/api/dm](https://api.lqbby.com/api/dm "https://api.lqbby.com/api/dm")
 
@@ -121,8 +121,10 @@ comments:
 
 *   \[ ]   BB与专栏界面导航栏未能变灰色
 
-![](https://i.imgtg.com/2022/04/24/xQSn1.png)
+[](https://i.imgtg.com/2022/04/24/xQSn1.png)
 
 *   \[ ] sitemap不能正常显示（去看文档改下就行，我懒）
+*   
+[](https://i.imgtg.com/2022/04/24/xQ04I.png)
 
-    ![](https://i.imgtg.com/2022/04/24/xQ04I.png)其它问题暂未发现
+  其它问题暂未发现
