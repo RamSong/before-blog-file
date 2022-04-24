@@ -75,9 +75,9 @@ tag_map:
 
 bb:
  title: Ram动态  #页面title
- appId: Ug9qsy3aBXvHzYFd7etDmhLX-gzGzoHsz
- appKey: 8gCBqyiv5XCxXuaJAjcqEl52
- serverURLs: https://ug9qsy3a.lc-cn-n1-shared.com #你的api地址
+ appId: 哈哈哈哈
+ appKey: 哈哈哈哈
+ serverURLs: 自己填啊 #你的api地址
  limit: 15 #显示条数
  path: bb #路径名称 例如：https://127.0.0.1/bb
  content: '👉🏼此说说对接腾讯服务，通过📱微信发出，相当于一个QQ说说。📑' #显示在哔哔上方,如不需要注释即可
