@@ -129,7 +129,7 @@ comments:
 
 7.  https://api.ishimeng.cn/ecy/api.php
 
-8.  https://api.codeanime.cn/4kanimation/random.php
+8. (4k) https://api.codeanime.cn/4kanimation/random.php
 
   够你用几年了把（doge）
 
