@@ -84,7 +84,7 @@ comments:
   # beaudar
   # https://beaudar.lipk.org/
   beaudar:
-    repo: RamSong/Blog-comments
+    repo: 填你自己的
     issue-term: pathname
     issue-number:
     theme: preferred-color-scheme
