@@ -18,9 +18,9 @@
 
 ## 有什么缺陷
 
-  BB与专栏界面导航栏未能变灰色! [xQSn1.png](https://i.imgtg.com/2022/04/24/xQSn1.png)
+  BB与专栏界面导航栏未能变灰色!  [xQSn1.png](https://i.imgtg.com/2022/04/24/xQSn1.png)
 
-  sitemap不能正常显示（去看文档改下就行，我懒）![xQ04I.png](https://i.imgtg.com/2022/04/24/xQ04I.png)
+  sitemap不能正常显示（去看文档改下就行，我懒）[xQ04I.png](https://i.imgtg.com/2022/04/24/xQ04I.png)
 
   其它问题暂未发现
 
@@ -76,7 +76,7 @@
 
     我使用的是 Beaudar评论系统，如果你也想用，参考 **[官方文档](https://beaudar.lipk.org/)** 配置Github仓库安装插件后，把repo改成你的即可
 
-    这个评论系统还是可以的（还有很多主题）：![xQc6D.png](https://i.imgtg.com/2022/04/24/xQc6D.png)
+    这个评论系统还是可以的（还有很多主题）：[xQc6D.png](https://i.imgtg.com/2022/04/24/xQc6D.png)
 
   ## 随机封面
 
@@ -84,7 +84,7 @@
 
     这里推荐几个二次元API
 
-    只需在文章头部插入即可：![xQskF.png](https://i.imgtg.com/2022/04/24/xQskF.png)
+    只需在文章头部插入即可：[xQskF.png](https://i.imgtg.com/2022/04/24/xQskF.png)
 
   1. https://api.lqbby.com/api/dm
 
