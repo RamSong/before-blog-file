@@ -25,7 +25,7 @@ sidebar:
     about: '[关于](/about/)'
   # Sidebar widgets
   widget_layout:
-    index: [welcome, recent, travelling] # for home/wiki/categories/tags/archives/404 pages
+    index: [welcome, recent] # for home/wiki/categories/tags/archives/404 pages
     page: [welcome, toc] # for pages using 'layout:page'
     post: [toc, repo_info] # for pages using 'layout:post'
     wiki: [toc, repo_info, wiki_more] # for pages using 'layout:wiki'
@@ -38,8 +38,6 @@ sidebar:
     # TOC (valid only in layout:post/wiki)
     hitokoto:
       enable: true
-    #虫洞
-    travelling: '[<img src="https://travellings.link/assets/logo.gif" alt="开往-友链" width="100">](/)'
     toc:
       layout: toc
       list_number: false
@@ -135,18 +133,18 @@ comments:
 ######## Footer ########
 footer:
   social:
-    # github:
-    #   icon: '<img src="https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/08a41b181ce68.svg"/>'
-    #   url: /
-    # music:
-    #   icon: '<img src="https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/3845874.svg"/>'
-    #   url: /
-    # unsplash:
-    #   icon: '<img src="https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/3616429.svg"/>'
-    #   url: /
-    # comments:
-    #   icon: '<img src="https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/942ebbf1a4b91.svg"/>'
-    #   url: /about/#comments
+     github:
+       icon: '<img src="https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/08a41b181ce68.svg"/>'
+       url: /
+     music:
+       icon: '<img src="https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/3845874.svg"/>'
+       url: /
+     unsplash:
+       icon: '<img src="https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/3616429.svg"/>'
+       url: /
+     comments:
+       icon: '<img src="https://cdn.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/942ebbf1a4b91.svg"/>'
+       url: /about/#comments
   sitemap:
      '博客':
        - '[近期](/)'
@@ -160,10 +158,11 @@ footer:
        - '[留言板](/about)'
      '更多':
        - '[关于本站](/about)'
-   #   - '[GitHub](https://github.com/ramsong)'
+       - '[GitHub](https://github.com/ramsong)'
   license: '[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)'
   using: true # 显示使用的主题信息
   source: # '[GitHub](https://github.com/cayzlh/blog-framework)'
+  travelling: '[<img src="https://travellings.link/assets/logo.gif" alt="开往-友链接力" width="100">](https://travellings.link)'
   server: '[云开发CloudBase](https://cloudbase.net) & [Vercel](https://vercel.com/cayzlh/cayzlh/settings/domains)'
 
   up_time:
